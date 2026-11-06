@@ -84,3 +84,7 @@ I formuläret fyller du i:
 
 - Läs om `git commit --amend` och ändra ett meddelande.
 - Skapa en `.gitignore` med `.DS_Store`.
+
+## Lite om mig själv
+
+Jag har en liten chihuahua som heter `Vilda`!
